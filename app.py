@@ -236,7 +236,7 @@ def inspector():
     marks = ep_issues[ep_issues.time != ""].copy()
     marks["t"] = [to_sec(*t.split(":")) for t in marks.time]
     base = alt.Chart(bars).mark_bar(cornerRadius=2, opacity=0.85).encode(
-        x=alt.X("t0:Q", title="seconds"), x2="t1:Q", y=alt.Y("lane:N", title=None, sort=None),
+        x=alt.X("t0:Q", title="seconds"), x2="t1:Q", y=alt.Y("lane:N", title=None, sort=None, axis=alt.Axis(labelOverlap=False, labelLimit=240)),
         color=alt.Color("kind:N", scale=alt.Scale(domain=["shot", "line"], range=["#8fa9c7", "#4c78a8"]), legend=None),
         tooltip=["lane", alt.Tooltip("t0:Q", format=".2f"), alt.Tooltip("t1:Q", format=".2f"), "text"])
     layers = [base]
@@ -246,7 +246,7 @@ def inspector():
                                                                   range=["#d64545", "#e0a526", "#9aa5b1"])),
             tooltip=["check", "severity", "message"]))
     lanes = bars.lane.nunique() if not bars.empty else 1
-    st.altair_chart(alt.layer(*layers).properties(height=40 + 28 * lanes), width="stretch")
+    st.altair_chart(alt.layer(*layers).properties(height=max(160, 60 + 36 * lanes)), width="stretch")
     st.caption("Blue bars: shots and spoken lines. Vertical lines: issues (hover for details).")
     st.dataframe(ep_issues.assign(severity=ep_issues.severity.map(SEV_ICON)).drop(columns=["episode", "event"]),
                  hide_index=True, width="stretch", column_config={"message": st.column_config.TextColumn(width="large")})
