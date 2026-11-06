@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+genready_out/
+*.zip
+inputs/
+.streamlit/secrets.toml

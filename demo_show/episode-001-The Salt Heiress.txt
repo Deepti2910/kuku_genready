@@ -1,0 +1,120 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: On the night her father's will is read, Mira is stripped of the salt trade by a masked envoy speaking for her uncle Dorian, and a veiled stranger on the harbour wall offers her a way to take it back.
+CONTINUITY NOTES: Series opener.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOUR HOUSE – COUNTING ROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 00:22.30
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a candlelit counting room; ledgers stacked high, rain against the shutters.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.50)
+Mira stands at her father's desk, one hand on the sealed will.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.50)
+Close-up of Mira's green eyes reflecting the candle flame.
+
+**LADY MIRA (Quiet, Steady):**
+Start: (00:04.40) | End: (00:07.20)
+"Open it. I want to hear it from him."
+
+**CAMERA:**
+Start: (00:07.50) | End: (00:11.50)
+Medium shot as the Masked Envoy steps out of the doorway shadow, a silver mask over his face.
+
+**THE MASKED ENVOY (Smooth, Cold):**
+Start: (00:08.10) | End: (00:11.10)
+"Your father is not here to read it, my lady."
+
+**CAMERA:**
+Start: (00:11.50) | End: (00:14.10)
+Tight close-up on the envoy's gloved hand breaking the wax seal.
+
+**THE MASKED ENVOY (Rapid, Mocking):**
+Start: (00:11.60) | End: (00:14.00)
+"By his own hand the house, the ships and every grain of salt pass to Dorian."
+
+**CAMERA:**
+Start: (00:14.10) | End: (00:17.10)
+Close-up of Mira, the colour draining from her face.
+
+**MIRA (Stunned):**
+Start: (00:14.40) | End: (00:16.80)
+"That is not his hand."
+
+**SOUND FX:**
+Start: (00:17.20) | End: (00:18.10)
+Thunder cracks over the harbour.
+
+**CAMERA:**
+Start: (00:18.30) | End: (00:22.30)
+Medium two-shot: the envoy rolls the will and tucks it into his coat.
+
+**THE MASKED ENVOY (Final):**
+Start: (00:18.80) | End: (00:21.80)
+"Dorian expects you gone by the tide."
+
+SCENE 02
+Scene heading: EXT. HARBOUR WALL – NIGHT
+Scene start: 00:22.30
+Scene end: 00:45.30
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:22.30) | End: (00:26.80)
+Wide shot of Mira walking the wet harbour wall, lanterns swinging on the masts.
+
+**ACTION:**
+Start: (00:23.30) | End: (00:26.30)
+A figure in a grey veil waits at the end of the wall.
+
+**CAMERA:**
+Start: (00:26.80) | End: (00:30.80)
+Medium shot of the Veiled Stranger, only the eyes visible above the cloth.
+
+**THE VEILED STRANGER (Low, Certain):**
+Start: (00:27.30) | End: (00:30.50)
+"They forged the will. I can prove it."
+
+**CAMERA:**
+Start: (00:30.80) | End: (00:34.30)
+Close-up on Mira, wary.
+
+**MIRA (Guarded):**
+Start: (00:31.20) | End: (00:33.80)
+"Why would a stranger help me?"
+
+**CAMERA:**
+Start: (00:34.30) | End: (00:38.30)
+Close-up of the stranger lowering the veil just enough to show a scarred jaw.
+
+**THE VEILED STRANGER (Grim):**
+Start: (00:34.90) | End: (00:37.90)
+"Because Dorian took my name too."
+
+**CAMERA:**
+Start: (00:38.30) | End: (00:41.30)
+Extreme close-up of Mira's eyes narrowing.
+
+**MIRA (Resolved):**
+Start: (00:38.60) | End: (00:41.00)
+"Then we take it back together."
+
+**CAMERA:**
+Start: (00:41.30) | End: (00:45.30)
+Wide shot as a bell rings out across the dark water.
+
+**SOUND FX:**
+Start: (00:41.80) | End: (00:44.80)
+The harbour bell tolls twice.
+

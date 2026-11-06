@@ -1,0 +1,92 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: In the hill fort, the stranger is revealed as Kael, the heir Dorian left for dead, and Dorian himself arrives to bargain for the true will.
+CONTINUITY NOTES: Picks up after the chase through the pass in Episode 2.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HILL FORT – DAY
+Scene start: 00:00.00
+Scene end: 00:27.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a ruined hill fort; sunlight through a broken roof.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.50)
+Mira binds a cut on the stranger's arm.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:08.00)
+Close-up of Kael, still veiled, as he finally pulls the cloth away.
+
+**KAEL (Steady):**
+Start: (00:04.50) | End: (00:07.50)
+"My name is Kael. Dorian is my brother."
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:11.50)
+Close-up of Mira, stunned.
+
+**MIRA (Shocked):**
+Start: (00:08.30) | End: (00:11.00)
+"The heir they buried at sea."
+
+**CAMERA:**
+Start: (00:11.50) | End: (00:15.50)
+Medium shot of Kael nodding slowly, the veiled hood now around his shoulders.
+
+**KAEL (Bitter):**
+Start: (00:12.00) | End: (00:15.00)
+"He paid the sea to keep me."
+
+**CAMERA:**
+Start: (00:15.50) | End: (00:20.00)
+Wide shot of the fort gate as a lone rider approaches under a white flag.
+
+**ACTION:**
+Start: (00:16.00) | End: (00:19.50)
+Dorian dismounts, unarmed.
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:24.00)
+Medium shot of Dorian at the gate, smiling.
+
+**DORIAN (Charming):**
+Start: (00:20.50) | End: (00:23.70)
+"Brother. You look well for a dead man."
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:27.50)
+Close-up of Kael's jaw tightening, the scar the veiled cloth used to hide now plain.
+
+**KAEL (Cold):**
+Start: (00:24.40) | End: (00:27.20)
+"Say what you came to say."
+
+SCENE 02
+Scene heading: INT. HILL FORT – CONTINUOUS
+Scene start: 00:27.50
+Scene end: 00:34.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:27.50) | End: (00:31.50)
+Two-shot of Dorian and Mira across a stone table.
+
+**DORIAN (Smooth):**
+Start: (00:28.00) | End: (00:31.00)
+"Give me the will and you both live."
+
+**CAMERA:**
+Start: (00:31.50) | End: (00:34.50)
+Close-up of Mira sliding the will toward herself, not him.
+
+**MIRA (Defiant):**
+Start: (00:34.80) | End: (00:37.20)
+"I would rather burn it."
+

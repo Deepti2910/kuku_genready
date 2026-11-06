@@ -1,0 +1,195 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mira and the veiled stranger break into the shipping office to find the real will, but the masked envoy returns early and her uncle's men close the harbour.
+CONTINUITY NOTES: Picks up from Episode 1 on the harbour wall.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. SHIPPING OFFICE – NIGHT
+Scene start: 00:00.00
+Scene end: 00:36.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:11.00)
+Slow push-in across the dark shipping office as two silhouettes slip through the window.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:05.00)
+Mira lights a shielded lantern.
+
+**THE VEILED STRANGER (Whisper):**
+Start: (00:06.00) | End: (00:09.50)
+"The strongbox is under the map table."
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:15.00)
+Close-up of Mira's hazel eyes scanning the shelves.
+
+**MIRA (Focused):**
+Start: (00:11.50) | End: (00:14.50)
+"Hold the light lower. There."
+
+**CAMERA:**
+Start: (00:15.00) | End: (00:19.50)
+Medium shot as the stranger pries the strongbox lid open.
+
+**THE VEILED STRANGER (Tense):**
+Start: (00:15.40) | End: (00:19.00)
+"Two wills. One with your father's true seal."
+
+**CAMERA:**
+Start: (00:19.50) | End: (00:23.00)
+Insert of the two documents side by side.
+
+**MIRA (Breathless):**
+Start: (00:19.70) | End: (00:22.60)
+"He kept both, the fool, he kept the real one."
+
+**CAMERA:**
+Start: (00:23.00) | End: (00:27.00)
+Wide shot as the door bursts open; lantern light floods in.
+
+**THE MASKED ENVOY (Furious):**
+Start: (00:23.30) | End: (00:26.10)
+"Step away from that box!"
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:31.00)
+Medium two-shot of Mira and the envoy facing each other across the table.
+
+**MIRA (Defiant):**
+Start: (00:27.30) | End: (00:29.90)
+"This belongs to my father."
+
+**THE MASKED ENVOY (Shouting):**
+Start: (00:28.90) | End: (00:30.90)
+"It belongs to Dorian now!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:36.00)
+Close-up of the stranger stepping between them, hand on a knife.
+
+**THE VEILED STRANGER (Dangerous):**
+Start: (00:31.50) | End: (00:35.00)
+"Say his name once more and I will end this here."
+
+SCENE 02
+Scene heading: EXT. HARBOUR – DAWN
+Scene start: 00:36.00
+Scene end: 00:52.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:42.00)
+Wide shot of chains rising across the harbour mouth; guards on every pier.
+
+**ACTION:**
+Start: (00:36.50) | End: (00:40.50)
+Dorian's men close the harbour.
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:47.00)
+Medium shot of Mira clutching the true will to her chest.
+
+**MIRA (Determined):**
+Start: (00:42.80) | End: (00:46.20)
+"Then we leave by the old salt road."
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:52.00)
+Close-up of the stranger looking back at the burning office.
+
+**THE VEILED STRANGER (Quiet):**
+Start: (00:48.00) | End: (00:51.00)
+"He will follow."
+
+SCENE 03
+Scene heading: EXT. SALT ROAD – MORNING
+Scene start: 00:52.00
+Scene end: 02:06.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:52.00) | End: (01:00.00)
+Drone shot over white salt flats, two riders small against the glare.
+
+**ACTION:**
+Start: (00:53.00) | End: (00:58.00)
+Mira and the stranger ride hard toward the hills.
+
+**CAMERA:**
+Start: (01:00.00) | End: (01:06.00)
+Medium tracking shot of the riders side by side.
+
+**MIRA (Curious):**
+Start: (01:00.50) | End: (01:04.00)
+"You never told me your name."
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:12.00)
+Close-up of the stranger, eyes on the horizon.
+
+**THE VEILED STRANGER (Guarded):**
+Start: (01:07.00) | End: (01:10.00)
+"When we reach the hills."
+
+**CAMERA:**
+Start: (01:12.00) | End: (01:20.00)
+Wide shot of the horizon; a dust cloud rises behind them.
+
+**SOUND FX:**
+Start: (01:13.00) | End: (01:17.00)
+Distant hoofbeats, many of them.
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:27.00)
+Close-up of Mira glancing back over her shoulder.
+
+**MIRA (Alarmed):**
+Start: (01:21.00) | End: (01:24.00)
+"Riders. Dozens of them."
+
+**CAMERA:**
+Start: (01:27.00) | End: (01:35.00)
+Wide shot of the riders spurring their horses up a rocky slope.
+
+**ACTION:**
+Start: (01:28.00) | End: (01:33.00)
+They race for the narrow pass.
+
+**CAMERA:**
+Start: (01:35.00) | End: (01:43.00)
+Medium shot at the mouth of the pass, the stranger reining in.
+
+**THE VEILED STRANGER (Commanding):**
+Start: (01:36.00) | End: (01:39.50)
+"Go through. I will hold them."
+
+**CAMERA:**
+Start: (01:43.00) | End: (01:51.00)
+Close-up of Mira refusing to move.
+
+**MIRA (Fierce):**
+Start: (01:44.00) | End: (01:47.00)
+"No. Not without you."
+
+**CAMERA:**
+Start: (01:51.00) | End: (01:59.00)
+Wide shot as arrows strike the rocks around them.
+
+**SOUND FX:**
+Start: (01:51.50) | End: (01:55.50)
+Arrows clatter on stone.
+
+**CAMERA:**
+Start: (01:59.00) | End: (02:06.00)
+Extreme close-up of the veil torn away by the wind.
+
+**ACTION:**
+Start: (02:00.00) | End: (02:04.00)
+The stranger's face is hidden from us by the glare.
+
